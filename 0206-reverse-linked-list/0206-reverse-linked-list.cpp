@@ -10,23 +10,36 @@
  */
 class Solution {
 private:
-    void Solve(ListNode* &head, ListNode* prev,ListNode* curr )
+    // void Solve(ListNode* &head, ListNode* prev,ListNode* curr )
+    // {
+    //     if(curr==NULL)
+    //     {
+    //         head=prev;
+    //         return;
+    //     }
+    //     ListNode* forward = curr->next;
+    //     Solve(head,curr,forward);
+    //     curr->next = prev;
+    // }
+    private:
+    ListNode* Solve2(ListNode* &head)
     {
-        if(curr==NULL)
+        if(head==NULL || head->next==NULL)
         {
-            head=prev;
-            return;
+            return head;
         }
-        ListNode* forward = curr->next;
-        Solve(head,curr,forward);
-        curr->next = prev;
+        ListNode* subhead=Solve2(head->next);
+        head->next->next=head;
+        head->next=NULL;
+        return subhead;
     }
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* curr = head;
-        ListNode* prev = NULL;
-        Solve(head,prev,curr);
-        return head;
+        // ListNode* curr = head;
+        // ListNode* prev = NULL;
+        // Solve(head,prev,curr);
+        return Solve2(head);
+        
         // ListNode* forward = NULL;
         // if(head==NULL || head->next==NULL)
         // {
