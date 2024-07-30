@@ -9,18 +9,6 @@
  * };
  */
 class Solution {
-private:
-    int len(ListNode* head)
-    {
-        ListNode* temp=head;
-        int c=0;
-        while(temp!=NULL)
-        {
-            temp=temp->next;
-            c++;
-        }
-        return c;
-    }
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* slow = head;
