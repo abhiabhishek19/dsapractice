@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Two Pointers
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
