@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abhiabhishek19/dsapractice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abhiabhishek19/dsapractice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abhiabhishek19/dsapractice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
