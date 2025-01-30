@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abhiabhishek19/dsapractice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/abhiabhishek19/dsapractice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhiabhishek19/dsapractice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/abhiabhishek19/dsapractice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhiabhishek19/dsapractice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhiabhishek19/dsapractice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhiabhishek19/dsapractice/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhiabhishek19/dsapractice/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/abhiabhishek19/dsapractice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhiabhishek19/dsapractice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/abhiabhishek19/dsapractice/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
