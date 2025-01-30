@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/abhiabhishek19/dsapractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiabhishek19/dsapractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/abhiabhishek19/dsapractice/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/abhiabhishek19/dsapractice/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
