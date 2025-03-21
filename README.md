@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiabhishek19/dsapractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/abhiabhishek19/dsapractice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/abhiabhishek19/dsapractice/tree/master/0485-max-consecutive-ones) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/abhiabhishek19/dsapractice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhiabhishek19/dsapractice/tree/master/0784-insert-into-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
