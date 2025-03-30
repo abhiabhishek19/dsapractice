@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhiabhishek19/dsapractice/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/abhiabhishek19/dsapractice/tree/master/0485-max-consecutive-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhiabhishek19/dsapractice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiabhishek19/dsapractice/tree/master/0142-linked-list-cycle-ii) |
+| [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhiabhishek19/dsapractice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhiabhishek19/dsapractice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abhiabhishek19/dsapractice/tree/master/0066-plus-one) |
+| [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
+## Counting
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
