@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 | [2648-number-of-ways-to-earn-points](https://github.com/abhiabhishek19/dsapractice/tree/master/2648-number-of-ways-to-earn-points) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/abhiabhishek19/dsapractice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhiabhishek19/dsapractice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiabhishek19/dsapractice/tree/master/0142-linked-list-cycle-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/abhiabhishek19/dsapractice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Matrix
 |  |
 | ------- |
