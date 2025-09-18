@@ -10,8 +10,9 @@ public:
             }
         }
         vector<int>ans;
+        int l=temp.size();
         for(int i:queries){
-            if(i-1<temp.size()){
+            if(i-1<l){
                 ans.push_back(temp[i-1]);
             }
             else{
