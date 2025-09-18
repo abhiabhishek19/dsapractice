@@ -4,7 +4,6 @@ public:
         
         int n=nums.size();
         vector<int> temp;
-        int pos=0;
         for(int i=0;i<n;i++){
             if(nums[i]==x){
                 temp.push_back(i);
