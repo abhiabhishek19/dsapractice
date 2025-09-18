@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhiabhishek19/dsapractice/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/abhiabhishek19/dsapractice/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/abhiabhishek19/dsapractice/tree/master/0485-max-consecutive-ones) |
+| [1025-minimum-cost-for-tickets](https://github.com/abhiabhishek19/dsapractice/tree/master/1025-minimum-cost-for-tickets) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhiabhishek19/dsapractice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 | [2648-number-of-ways-to-earn-points](https://github.com/abhiabhishek19/dsapractice/tree/master/2648-number-of-ways-to-earn-points) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiabhishek19/dsapractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/abhiabhishek19/dsapractice/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/abhiabhishek19/dsapractice/tree/master/0377-combination-sum-iv) |
+| [1025-minimum-cost-for-tickets](https://github.com/abhiabhishek19/dsapractice/tree/master/1025-minimum-cost-for-tickets) |
 | [2648-number-of-ways-to-earn-points](https://github.com/abhiabhishek19/dsapractice/tree/master/2648-number-of-ways-to-earn-points) |
 ## Hash Table
 |  |
