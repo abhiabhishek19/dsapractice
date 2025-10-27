@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhiabhishek19/dsapractice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhiabhishek19/dsapractice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiabhishek19/dsapractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/abhiabhishek19/dsapractice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/abhiabhishek19/dsapractice/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/abhiabhishek19/dsapractice/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/abhiabhishek19/dsapractice/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhiabhishek19/dsapractice/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiabhishek19/dsapractice/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/abhiabhishek19/dsapractice/tree/master/0217-contains-duplicate) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhiabhishek19/dsapractice/tree/master/2448-count-number-of-bad-pairs) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/abhiabhishek19/dsapractice/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Matrix
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhiabhishek19/dsapractice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abhiabhishek19/dsapractice/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
