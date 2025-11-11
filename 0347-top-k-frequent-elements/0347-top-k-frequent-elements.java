@@ -1,24 +1,27 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        Map<Integer,Integer> m = new HashMap<>();
-        for(int i:nums){
-            if(m.containsKey((Integer)i)){
-                int v = m.get(i);
-                m.put(i,++v);
-            }
-            else {
-                m.put(i,1);
-            }
+        List<Integer>[] bucket = new List[nums.length + 1];
+        HashMap<Integer, Integer> hm = new HashMap<>();
+        for (int num : nums) {
+            hm.put(num, hm.getOrDefault(num,0) + 1);
         }
-        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(m.entrySet());
-        list.sort((a, b) -> b.getValue().compareTo(a.getValue()));
-
-        // Step 3: Take the top k elements
+        for (int key : hm.keySet()) {
+            int freq = hm.get(key);
+            if (bucket[freq] == null) {
+                bucket[freq] = new ArrayList<>();
+            }
+            bucket[freq].add(key);
+        }
         int[] ans = new int[k];
-        for (int i = 0; i < k; i++) {
-            ans[i] = list.get(i).getKey();   // ✅ fixed: get key, not value list indexing
+        int pos = 0;
+        for (int i = bucket.length - 1; i >= 0; i--) {
+            if (bucket[i] != null) {
+                for (int j = 0; j < bucket[i].size() && pos < k; j++) {
+                    ans[pos] = bucket[i].get(j);
+                    pos++;
+                }
+            }
         }
-
         return ans;
     }
 }
